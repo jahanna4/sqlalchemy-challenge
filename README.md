@@ -1,3 +1,3 @@
-# SQL Alchemy Challenge
+# SQLAlchemy Challenge
 
 The purpose of this challenge was 
